@@ -3,7 +3,7 @@ learning how to use github
 
 ## Who
 
-I code for mostly fun.
+I code for fun.
 
 1. Bananas
 2. Oranges
